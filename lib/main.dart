@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const BenimUygulamam());
 }
-
+//Falci uygulamasi
 class BenimUygulamam extends StatelessWidget {
   const BenimUygulamam({Key? key}) : super(key: key);
 
